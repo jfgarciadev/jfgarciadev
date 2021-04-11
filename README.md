@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jfgarciadev
+- 🌱 I’m currently learning nextJS/reactJs, nodeJS and PHP...
+- 📫 How to reach me: juanjuanjuan92@gmail.com
