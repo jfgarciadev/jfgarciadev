@@ -28,14 +28,14 @@ Me chamo Juan Felipe, tenho 22 anos e amo empreender, programar e ouvir muito ro
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=QuintansC&hide=stars&show_icons=true&theme=dark&line_height=40">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuintansC&count_private=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=jfgarciadev&hide=stars&show_icons=true&theme=dark&line_height=40">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfgarciadev&count_private=true&theme=dark">
 
 </p>
 
 
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/QuintansC/QuintansC.svg)
+![ViewCount](https://views.whatilearened.today/views/github/jfgarciadev/QuintansC.svg)
 
 </div>
