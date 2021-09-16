@@ -1,6 +1,6 @@
 ### Olá pessoal, Sejam Bem vindos ao meu perfil ☕
 
-Me chamo Juan Felipe, tenho 22 anos e amo empreender, programar e ouvir muito rock
+Me chamo Juan Felipe, tenho 22 anos e amo empreender e desenvolver
 
 **Linguagens e ferramentas:**
 
