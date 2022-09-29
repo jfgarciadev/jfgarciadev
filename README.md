@@ -35,6 +35,10 @@ Atualmente trabalho  na Minu [(@minutrade)](https://github.com/Minutrade)
 <p align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=jfgarciadev&theme=merko&hide_border=true)](https://git.io/streak-stats)
+  
+  ---
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </p>
 
