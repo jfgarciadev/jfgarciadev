@@ -18,6 +18,10 @@ Atualmente trabalho  na Minu [(@minutrade)](https://github.com/Minutrade)
     <img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
     <img alt="React | React Native" src="https://img.icons8.com/color/48/000000/react-native.png" />
     <img alt="NodeJs" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/>
+    <img alt="Kubernetes" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+    <img alt="Jenkins" src="https://img.icons8.com/color/48/000000/jenkins.png"/>
+    <img alt="CircleCi" src="https://img.icons8.com/color/48/000000/circleci.png"/>
     <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
     <img alt="Php" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
     <img alt="MySQL" src="https://img.icons8.com/ios-filled/48/4a90e2/mysql-logo.png"/>
