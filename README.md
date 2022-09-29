@@ -34,8 +34,7 @@ Atualmente trabalho  na Minu [(@minutrade)](https://github.com/Minutrade)
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=jfgarciadev&hide=stars&show_icons=true&theme=dark&line_height=40">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfgarciadev&count_private=true&theme=dark">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jfgarciadev&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 </p>
 
